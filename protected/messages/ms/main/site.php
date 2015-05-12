@@ -1,0 +1,87 @@
+<?php
+/**
+ * @author Fauzi Salihin<mufauzi@gmail.com>
+ * @package messages.ms
+ * @since 1.0.2
+ */
+
+return array (
+  //frontpage
+  "If you are already registered with us you can login using the form bellow :"=>"Sila log masuk sekiranya anda telah mempunyai akaun :",
+  "Password"=>"Katalaluan",
+  "Login ID"=>"ID Pengguna",
+  "Login"=>"Masuk",
+  "Can't access your account?"=>"Terlupa ID pengguna atau katalaluan?",
+  "New to our website, please register"=>"Belum mempunyai akaun? sila daftar disini",
+  
+  //login form
+  "Login Form"=>"Log Masuk",
+  ""=>"",
+  ""=>"",
+  
+  //update profile
+  "Profile"=>"Profil",
+  "Update Profile"=>"Kemaskini Profil",
+  "Login ID"=>"ID Pengguna",
+  "User Name"=>"Nama Penuh",
+  "Email Address"=>"Alamat Emel",
+  "Phone Number"=>"No. Telefon",
+  "Position"=>"Jawatan",
+  "Department"=>"Jabatan / Bahagian",
+  "Please insert valid email address"=>"Sila masukkan alamat emel yang sah",
+  "Current Password"=>"Katalaluan",
+  "New Password"=>"Katalaluan Baru",
+  "Repeat New Password"=>"Ulang Katalaluan Baru",
+  "6 to 12 characters"=>"6 hingga 12 aksara",
+  "Update"=>"Kemaskini",
+  "Logout"=>"Log Keluar",
+  "Home"=>"Utama",
+  "Login"=>"Log Masuk",
+  "Admin Panel"=>"Panel Pengurusan",
+  "Incorrect username or password."=>"Kesalahan ID Pengguna atau Katalaluan.",
+  "Leave empty if you not changing password."=>"Sila kosongkan sekiranya tidak mahu diubah.",
+  "Current password that been used to login this account."=>"Katalaluan yang digunakan semasa log masuk yang terkini.",
+  "Account Information"=>"Maklumat Akses",
+  "Personal Details"=>"Maklumat Peribadi",
+  "Contact us"=>"Hubungi kami",
+  "Contact Us"=>"Hubungi Kami",
+  "If you have inquiries or questions, please fill out the following form to contact us."=>"Sila hubungi kami sekiranya anda mempunyai sebarang makluman, aduan dan cadangan.",
+  "Fields with"=>"Maklumat bertanda",
+  "are required"=>"adalah wajib diisi",
+  "Thank you"=>"Terima kasih",
+  "Name"=>"Nama",
+  "Email"=>"Emel",
+  "Subject"=>"Tajuk",
+  "Body"=>"Kandungan",
+  "Verification Code"=>"Kod Verifikasi",
+  "Please enter the letters as they are shown in the image above"=>"Sila masukkan huruf seperti di rajah",
+  "Letters are not case-sensitive"=>"Huruf adalah tidak case-sensitive",
+  "Submit"=>"Hantar",
+  "Thank you for contacting us. We will respond to you as soon as possible."=>"Terima kasih kerana menghubungi kami. Kami akan memberikan maklumbalas segera sekiranya perlu. Terima kasih.",
+  "FAQ"=>"Soalan lazim",
+  "Read more..."=>"maklumat lanjut...",
+  "News and announcement"=>"Berita dan pengumuman",
+  "Sorry the content of this page are temporarily unavailable."=>"Harap maaf, kandungan halaman ini telah dipindahkan.",
+  "Back"=>"Kembali",
+  "News and Announcements"=>"Berita dan Pengumuman",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  ""=>"",
+  
+);
+?>
